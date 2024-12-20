@@ -1,0 +1,6 @@
+{
+    "type": "file",
+    "params": {
+        "task":"pdf2json"
+    }
+}
